@@ -1,5 +1,5 @@
 // There are two types of guests: Adult and Minor, both inherit Guest
-class Guest {
+public class Guest {
     private String name;
     private int age;
     public Guest(String innit_name, int innit_age)
